@@ -1,7 +1,7 @@
 export const bio = [
-  "Konstantinos! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
-  "Thanks for visiting!",
+  "I’m a passionate engineer driven by a curiosity to understand how things are built and work. I thrive on uncovering the intricate processes behind technology and enjoy the creative aspects of engineering.",
+  "Outside of my technical pursuits, I have a strong interest in filmmaking, where I find unique opportunities to blend my analytical skills with creativity.",
+  "This combination of technical expertise and artistic insight allows me to bring a fresh perspective to every project I undertake.
 ];
 
 export const skills = [
