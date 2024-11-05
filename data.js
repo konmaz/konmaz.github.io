@@ -1,7 +1,7 @@
 export const bio = [
   "I’m a passionate engineer driven by a curiosity to understand how things are built and work. I thrive on uncovering the intricate processes behind technology and enjoy the creative aspects of engineering.",
   "Outside of my technical pursuits, I have a strong interest in filmmaking, where I find unique opportunities to blend my analytical skills with creativity.",
-  "This combination of technical expertise and artistic insight allows me to bring a fresh perspective to every project I undertake.
+  "This combination of technical expertise and artistic insight allows me to bring a fresh perspective to every project I undertake."
 ];
 
 export const skills = [
