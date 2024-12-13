@@ -1,6 +1,9 @@
 ---
 layout: default
 permalink: /
+title: Projects
+remote_projects: 
+  - Learning-management-system
 ---
 
-{% include landing.html %}
+{% include projects/index.html %}
